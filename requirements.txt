@@ -1,0 +1,7 @@
+pyaudio
+numpy
+wave
+pynput
+transformers == 4.45.2
+TTS
+torch == 2.2.1

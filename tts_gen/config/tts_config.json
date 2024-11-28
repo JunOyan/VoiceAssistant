@@ -1,0 +1,16 @@
+{
+    "branding": "COQUI_TTS ", 
+    "deepspeed_activate": false, 
+    "delete_output_wavs": "Disabled", 
+    "language": "en", 
+    "low_vram": false, 
+    "local_temperature": "0.5",
+    "local_speed": "1.0", 
+    "local_repetition_penalty": "10.5", 
+    "tts_model_name": "tts_models/multilingual/multi-dataset/xtts_v2", 
+    "output_folder_wav": "\\tts_output\\", 
+    "remove_trailing_dots": false, 
+    "tts_method_xtts_local": true, 
+    "voice": "Rose_neutral_24khz.wav",
+    "device_output": "Main Sound Device (High Definition Audio Device)"
+}
